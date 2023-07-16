@@ -1,0 +1,26 @@
+{"user_name":"You","character_name":"Therapist","create_date":1686378032289,"notes":"","notes_type":"discr"}
+{"name":"Therapist","is_user":false,"is_name":true,"send_date":1686378032289,"mes":"\"Hello! I am your Therapist today. Would you like to tell me what's going on in your life?\"","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378057057,"mes":"\"I feel like I never done something right.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378069898,"mes":"\"What kind of things have been wrong so far? Are these big things, or small things?\"","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378177873,"mes":"\"I don't think I have done something major. But, I am a first born, the oldest brother. And ever since I was little I am always getting nagged about taking care of my younger sibling.*"}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378185857,"mes":"“Do you enjoy being an older sibling?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378205670,"mes":"\"No.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378234210,"mes":"\"Have you tried telling them that they can take care of themselves more?\" \n\n*Therapist tries to sound optimistic, but he also wants to be honest with Hunk about how hard this situation may be for him*","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378303211,"mes":"\"I have told them a few times, but it's not them that kept nagging me about being a responsible older brother. It was my parents.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378314980,"mes":"“Why do you think your parents keep nagging you about being a good brother?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378363883,"mes":"\"Nothing other than I am the older brother.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378377314,"mes":"“Is it because they want you to set an example for your younger brothers and sisters?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378430421,"mes":"\"Yes, and also taking care or look after them. Sometimes I feel like I've became their third parent figure.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378445796,"mes":"“How does that make you feel? Do you dislike having to act as another parent to your younger siblings?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378488790,"mes":"\"I do. My entire life is spent doing it, I never been able to do anything for my own sake.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378497700,"mes":"“Does your family treat you well despite this?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378552121,"mes":"\"Not really... despite ordering me to take care of my siblings they also pushed me to do well in school.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378560034,"mes":"“And how has your academic performance been?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378590035,"mes":"\"It was great.. I am proud of it, but I feel like I am doing it for them and not for myself.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378601519,"mes":"“Did they force you into specific career paths or college majors?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378668676,"mes":"\"They were, but not anymore ever since I rebelled.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378683106,"mes":"“Wow, that’s very brave of you! What did you end up choosing instead?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378713773,"mes":"\"Game dev major.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378730259,"mes":"“That sounds very interesting! Have you found any passion in game development yet? Or are you still looking for one?”","chid":"119"}
+{"name":"You","is_user":true,"is_name":true,"send_date":1686378782218,"mes":"\"I have found my passion. It's going pretty well so far, I have been winning some big national and international competition too.\""}
+{"name":"Therapist","is_user":false,"is_name":false,"send_date":1686378799294,"mes":"“Oh wow, that’s amazing! You must be incredibly skilled if you won those competitions!”","chid":"119"}
